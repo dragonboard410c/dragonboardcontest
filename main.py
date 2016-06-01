@@ -9,7 +9,6 @@ from time import gmtime, strftime
 import base64
 import sys
 import time
-import espeak
 from threading import Thread
 
 INTERVAL = 1
