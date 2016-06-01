@@ -41,5 +41,7 @@ Install Python-OpenCV: *sudo apt-get install python-opencv*
 #Running main application
 *python main.py*
 
+Dragonboard410c can be configured to run this application soon after bootup.
+
 
 
