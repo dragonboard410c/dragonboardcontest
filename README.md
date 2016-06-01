@@ -30,6 +30,8 @@ Flashing Debian: https://github.com/96boards/documentation/wiki/Dragonboard-410c
 
 Install python-telegram-bot: *sudo pip install python-telegram-bot --upgrade*
 
+For setting up Telegram bot: https://github.com/yukuku/telebot/blob/master/README.md
+
 Install espeak: *sudo apt-get install espeak*
 
 Install vsftpd for uploading/deleting user faces for face recognition. Configure it to access only "faces" folder: *sudo apt-get install vsftpd*
