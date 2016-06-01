@@ -16,6 +16,8 @@ This thread receives incoming messages, parses it and takes appropriate action. 
 For triggering text to speech,
 
     "Bot msg who are you?"
+    <cmd> = msg
+    <message> = Who are you?
 
 For surveillance turn on/off,
 
